@@ -25,9 +25,9 @@ You need at first to clone the project.
 
 ### Using the script
 
-Well, after you clone the repo, two possibilities to run the script.
+Well, after you clone the repo, **2 possibilities to run the script.**
 
-#### The easiest : 
+### The easiest : 
 
 Using Make file 
 Once in the file c-environment 
@@ -41,15 +41,15 @@ Now, to run the program you have to use this command :
 
 `./enumerate_numbers`
 
-And a list of 1 to 10 should appear 🎉
+And a list of 1 to 10 should appear !
 
 Now, to clean up the file you have to run this command : 
 
 `make clean`
 
-And this is over !
+And this is over 🎉
 
-#### The hardest : 
+### The hardest : 
 
 This is the manual execution
 Once in the file **c-environment**
@@ -67,10 +67,24 @@ Now, to run the program you have to use this command :
 
 `./enumerate_numbers`
 
-And a list of 1 to 10 should appear 🎉
+And a list of 1 to 10 should appear !
 
 Now, to clean up the file you have to run this command : 
 
 `./clean_repository.sh`
 
-And this is over !
+And this is over 🎉
+
+a
+
+a
+a
+
+
+
+
+
+a
+a
+
+a
