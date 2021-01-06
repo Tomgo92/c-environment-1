@@ -31,7 +31,5 @@ Well, after you clone the repo, two possibilities to run the script.
 
 Using Make file : 
 
-```shell
-make build
-```
+`make build`
 
