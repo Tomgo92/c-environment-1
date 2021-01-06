@@ -29,6 +29,9 @@ Well, after you clone the repo, two possibilities to run the script.
 
 #### The easiest : 
 
-```shell
+Using Make file : 
 
+```shell
+make build
 ```
+
