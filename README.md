@@ -3,16 +3,12 @@
 We are the **MATIS** group, and here there is our first project, we hope you will enjoy 😉
 
 
-
 ## Getting Started
-
 
 ### Prerequisites
 
 - First of all you need a unix operating system like : macOS or Linux.
-
 - And that's all ! 
-
 
 ### Basic installation
 
@@ -36,13 +32,11 @@ You have to run this commmand :
 `make build`
 
 The file : **enumerate_numbers** has been created.
-
 Now, to run the program you have to use this command : 
 
 `./enumerate_numbers`
 
 And a list of 1 to 10 should appear !
-
 Now, to clean up the file you have to run this command : 
 
 `make clean`
@@ -53,7 +47,7 @@ And this is over 🎉
 
 This is the manual execution
 Once in the file **c-environment**
-You have to run this command : 
+You have to run this command :
 
 `./setup.sh`
 
@@ -62,29 +56,16 @@ When it's done run this :
 `./build_program.sh`
 
 The file : **enumerate_numbers** has been created.
-
 Now, to run the program you have to use this command : 
 
 `./enumerate_numbers`
 
 And a list of 1 to 10 should appear !
-
 Now, to clean up the file you have to run this command : 
 
 `./clean_repository.sh`
 
 And this is over 🎉
 
-a
-
-a
-a
-
-
-
-
-
-a
-a
-
-a
+# Contributors
+## Contributors
