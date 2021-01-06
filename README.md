@@ -1,6 +1,6 @@
 <div align="center"><img src="img.png"/></div>
 
-We are the **MATIS** group, and here there is our first project, we hope you will enjoy 😉
+We are the **MATIS** group, and here is our first project, we hope you will enjoy 😉
 
 
 ## Getting Started
