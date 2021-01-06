@@ -1,4 +1,4 @@
-![](img.png)
+<p align="center">![](img.png) </p>
 
 ### Prerequisites
 
