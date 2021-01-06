@@ -21,3 +21,14 @@ You need at first to clone the project.
 | Method         | Command                                                                                           |
 |:---------------|:--------------------------------------------------------------------------------------------------|
 | **git clone**  | `git clone https://github.com/M4Hacker/c-environment`                                             |  
+
+
+### Using the script
+
+Well, after you clone the repo, two possibilities to run the script.
+
+#### The easiest : 
+
+```shell
+
+```
