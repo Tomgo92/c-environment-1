@@ -67,5 +67,14 @@ Now, to clean up the file you have to run this command :
 
 And this is over 🎉
 
-# Contributors
+## License & Copyright
+
+© MATIS - Linux | ESILV - 2021
+
 ## Contributors
+
+- Ilhan Yapici <ilhan.yapici@edu.devinci.fr>
+- Simon Lellouche <simon.lellouche@edu.devinci.fr>
+- Alexandre Francony <Alexandre.francony@edu.devinci.fr>
+- Tom 
+- Matthieu Roman <matthieu.roman@edu.devinci.fr>
