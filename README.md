@@ -67,6 +67,11 @@ Now, to clean up the file you have to run this command :
 
 And this is over 🎉
 
+## Help & informations
+
+If you need any help or you find any bugs, please let us know.
+You can join our [discord](https://discord.gg/bMwaAxDyNv)
+
 ## License & Copyright
 
 © MATIS - Linux | ESILV - 2021
@@ -76,5 +81,5 @@ And this is over 🎉
 - Ilhan Yapici <ilhan.yapici@edu.devinci.fr>
 - Simon Lellouche <simon.lellouche@edu.devinci.fr>
 - Alexandre Francony <Alexandre.francony@edu.devinci.fr>
-- Tom 
+- Tom Gosset <tom.gosset@edu.devinci.fr>
 - Matthieu Roman <matthieu.roman@edu.devinci.fr>
