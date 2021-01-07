@@ -8,7 +8,7 @@ We are the **MATIS** group, and here is our first project, we hope that you will
 ### Prerequisites
 
 - First of all you need a unix operating system like : macOS or Linux.
-- Git must be installed ! ([documentation(https://doc.ubuntu-fr.org/git)])
+- [Git](https://doc.ubuntu-fr.org/git) must be installed !
 - That's all ! 
 
 ### Basic installation
