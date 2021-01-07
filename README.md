@@ -7,7 +7,7 @@ We are the **MATIS** group, and here is our first project, we hope that you will
 
 ### Prerequisites
 
-- First of all you need a unix operating system like : macOS or Linux.
+- First of all you need a unix operating system like : macOS or [Linux](https://doc.ubuntu-fr.org/linux).
 - [Git](https://doc.ubuntu-fr.org/git) must be installed !
 - That's all ! 
 
@@ -42,7 +42,7 @@ Now, to clean up the repository, you have to use this command :
 
 `make clean`
 
-You're done 🎉
+**You're done 🎉**
 
 ### The hardest : 
 
@@ -66,7 +66,7 @@ Now, to clean up the repository, you have to run this command :
 
 `./clean_repository.sh`
 
-You're done 🎉
+**You're done 🎉**
 
 ## Help & informations
 
@@ -75,7 +75,7 @@ You can join our [discord](https://discord.gg/bMwaAxDyNv)
 
 ## License & Copyright
 
-© MATIS - Linux | ESILV - 2021
+**© MATIS - Linux | ESILV - 2021**
 
 ## Contributors
 
@@ -84,3 +84,7 @@ You can join our [discord](https://discord.gg/bMwaAxDyNv)
 - Alexandre Francony <Alexandre.francony@edu.devinci.fr>
 - Tom Gosset <tom.gosset@edu.devinci.fr>
 - Matthieu Roman <matthieu.roman@edu.devinci.fr>
+
+Sincerely
+
+**Matis**
