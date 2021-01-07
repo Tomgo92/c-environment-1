@@ -1,6 +1,6 @@
 <div align="center"><img src="img.png"/></div>
 
-We are the **MATIS** group, and here is our first project, we hope you will enjoy 😉
+We are the **MATIS** group, and here is our first project, we hope that you will enjoy 😉
 
 
 ## Getting Started
@@ -8,12 +8,12 @@ We are the **MATIS** group, and here is our first project, we hope you will enjo
 ### Prerequisites
 
 - First of all you need a unix operating system like : macOS or Linux.
-- Git must be install ! ([documentation(https://doc.ubuntu-fr.org/git)])
-- And that's all ! 
+- Git must be installed ! ([documentation(https://doc.ubuntu-fr.org/git)])
+- That's all ! 
 
 ### Basic installation
 
-You need at first to clone the project.
+At first, you need to clone the project.
 
 | Method         | Command                                                                                           |
 |:---------------|:--------------------------------------------------------------------------------------------------|
@@ -22,33 +22,33 @@ You need at first to clone the project.
 
 ### Using the script
 
-Well, after you clone the repo, **2 possibilities to run the script.**
+Then, after you cloned the repo, there are **2 possibilities to run the script.**
 
 ### The easiest : 
 
 Using Make file 
-Once in the file c-environment 
-You have to run this commmand :
+once you are in the c-environment repository, 
+you have to use this commmand :
 
 `make build`
 
 The file : **enumerate_numbers** has been created.
-Now, to run the program you have to use this command : 
+Now, to run the program, you have to use this command : 
 
 `./enumerate_numbers`
 
-And a list of 1 to 10 should appear !
-Now, to clean up the file you have to run this command : 
+A list of numbers from 1 to 10 should appear !
+Now, to clean up the repository, you have to use this command : 
 
 `make clean`
 
-And this is over 🎉
+You're done 🎉
 
 ### The hardest : 
 
-This is the manual execution
-Once in the file **c-environment**
-You have to run this command :
+This is the manual execution,
+once you are in the **c-environment** repository,
+you have to use this command :
 
 `./setup.sh`
 
@@ -57,16 +57,16 @@ When it's done run this :
 `./build_program.sh`
 
 The file : **enumerate_numbers** has been created.
-Now, to run the program you have to use this command : 
+Now, to run the program, you have to use this command : 
 
 `./enumerate_numbers`
 
-And a list of 1 to 10 should appear !
-Now, to clean up the file you have to run this command : 
+A list of numbers from 1 to 10 should appear !
+Now, to clean up the repository, you have to run this command : 
 
 `./clean_repository.sh`
 
-And this is over 🎉
+You're done 🎉
 
 ## Help & informations
 
